@@ -1,5 +1,5 @@
 ## Allure modified
-To install this custom version of Allure report follew the next steps
+To install this custom version of the Allure report follow the next steps
 ```
 curl -o allure-2.19.0.zip -Ls https://github.com/Sirenitix/allure-modified/raw/main/allure-2.19.0.zip   
 sudo apt install unzip
